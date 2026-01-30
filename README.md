@@ -1,14 +1,14 @@
-# My First GitHub Repository
+# 🚀 My First GitHub Repository
 
 👋 Hi, this is my first GitHub repository.
 
-## About
+## 📖 About
 This repository is created to learn GitHub basics like:
 - Creating repository
 - Adding files
 - Committing changes
   
-## Skills
+## 🛠️ Skills
 - HTML  
 - CSS  
 - JavaScript  
@@ -16,5 +16,5 @@ This repository is created to learn GitHub basics like:
 - Git & GitHub  
 - Basic Web Development
   
-## Author
+## 👩‍💻 Author
 Mitali Vasani
